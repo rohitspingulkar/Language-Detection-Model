@@ -11,6 +11,7 @@ Preprocessing of data is done with the labels and i have given that data into a 
 Pipeline is used for executing operations one after the other so i have given first operation as vectorization 
 and second as the model training initialization
 
+7 Languages : ENGLISH, FRENCH, DUTCH, DANISH, SPANISH, ITALIAN, GERMAN
 Thats it very easy and simple code
 Any doubts you can ask me on my git or email!
 Feel free
