@@ -12,3 +12,5 @@ Language Detection.csv is the data,from that I extracted 7 languages data with l
 Thats it very easy and simple code.
 Any doubts you can ask me on my git or email!.
 Feel free.
+
+Note : Running the notebook on colab will generate a model which is not upto date version of sklearn so you can run modelbuilding.py file to build your model for local model building.
