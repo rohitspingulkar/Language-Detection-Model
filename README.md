@@ -9,6 +9,7 @@ Sklearn is very powerfull and very easy to build a model.
 
 Language Detection.csv is the data,from that I extracted 7 languages data with labels and cleaned it using regex(Regular expression), preprocessing of data is done with the labels and i have given that data into a pipeline, pipeline is used for executing operations one after the other so i have given first operation as vectorization and second as the model training initialization.
 
+Accuracy is 98%.
 Thats it very easy and simple code.
 Any doubts you can ask me on my git or email!.
 Feel free.
